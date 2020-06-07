@@ -1,0 +1,7 @@
+{
+	"parent": "characters/character",
+	"textures": {
+		"particle": "blocks/wool_colored_black",
+		"texture": "custom/characters/parr"
+	}
+}
